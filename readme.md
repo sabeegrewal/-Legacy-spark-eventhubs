@@ -1,5 +1,7 @@
 # Event Hubs and Apache Spark Integration
 
+### Note: this code was authored years ago and is no longer maintained. Just preserving for the moment. Aside from this note, the code is unmodified from when it was written in 2016.  
+
 This repository contains open-source adapters to connect Event Hubs with Apache Spark and Spark Streaming. This guide is written presuming users have experience with both Apache Spark and Event Hubs. Usage samples can be found in the examples directory.
 
 ## eventHubParams<a name="ehparams"></a>
